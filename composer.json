@@ -1,0 +1,5 @@
+{
+    "require": {
+        "visavi/rzd-api": "^4.0"
+    }
+}
